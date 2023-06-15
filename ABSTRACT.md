@@ -6,4 +6,12 @@ In this session, we will explore the considerations that must be taken into acco
 We will discuss the benefits and drawbacks of each approach, as well as the best practices for deciding which option to pursue. By the end of the presentation, attendees will have a better understanding of how to evaluate their Java applications for cloud readiness, and the best course of action to take to ensure a successful transition to the cloud.
 I will take the Azure cloud as an example but it has the same relevance for other options.
 
-I can do this session as a keynote in a high level format or in a half day workshop style with examples that can be found here: https://github.com/Azure-Samples/cargotracker-liberty-aks https://github.com/Azure-Samples/cargotracker-wls-aks https://github.com/Azure-Samples/workshop-migrate-jboss-on-app-service https://github.com/microsoft/azure-spring-apps-training
+I can do this session as a keynote in a high level format or in a half day workshop style with examples that can be found here:
+
+https://github.com/Azure-Samples/cargotracker-liberty-aks
+
+https://github.com/Azure-Samples/cargotracker-wls-aks
+
+https://github.com/Azure-Samples/workshop-migrate-jboss-on-app-service
+
+https://github.com/microsoft/azure-spring-apps-training
