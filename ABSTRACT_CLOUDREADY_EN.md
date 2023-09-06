@@ -14,4 +14,3 @@ https://github.com/Azure-Samples/cargotracker-wls-aks
 
 https://github.com/Azure-Samples/workshop-migrate-jboss-on-app-service
 
-https://github.com/microsoft/azure-spring-apps-training
