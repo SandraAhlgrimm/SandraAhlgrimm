@@ -9,7 +9,7 @@ Ich freue mich auf Diskussionen zu den jeweiligen Vor- und Nachteilen jedes Ansa
 Am Ende des Workshops werden die Teilnehmer ein besseres Verständnis dafür haben, wie sie ihre Java-Anwendungen auf ihre Cloud-Readyness hin bewerten können
 und welche Maßnahmen ergriffen werden sollten, um einen erfolgreichen Übergang in die Cloud sicherzustellen.
 
-Es gibt viele Wege für Java auf Azure. In diesem Workshop geben wir zunächst einen Überblick der verschiedenen Hostoptionen, um uns dann auf App Service und den Azure Kubernetes Service zu fokussieren. Dabei haben wir die Produktivumgebung als Ziel inklusive Infrastructure as Code, CI/CD Und Performance Monitoring. The Kubernetes-Aspekte des Workshops gelten ebenso für die anderen hyperscalierbaren Kubernetes Angebote wie EKS, GKE, OKE, etc.
+Es gibt viele Wege für Java auf Azure. In diesem Workshop geben wir zunächst einen Überblick der verschiedenen Hostoptionen, um uns dann auf App Service und den Azure Kubernetes Service zu fokussieren. Dabei haben wir die Produktivumgebung inklusive Infrastructure as Code, CI/CD und Performance Monitoring als Ziel. Die Kubernetes-Aspekte des Workshops gelten ebenso für die anderen hyperscalierbaren Kubernetes-Angebote wie EKS, GKE, OKE, etc.
 
 
 Die Beispiele sind größtenteils Open Source und auf GitHub hinterlegt:
