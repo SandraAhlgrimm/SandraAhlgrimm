@@ -1,4 +1,5 @@
- 👋 Hi, I’m Sandra Ahlgrimm, Senior Developer Advocate working for Java Developers with Microsoft at GitHub. I recently learned to love AI.
+ 👋 Hi, I’m Sandra Ahlgrimm, Senior Developer Advocate working for Java Developers with Microsoft at GitHub.
+ I recently learned to love AI.
 <!--- - 👀 I’m interested in Java, containers, cloud.
 - 🌱 I’m currently learning Azure Container Apps.
 - 💞️ I’m looking to collaborate on Open Source Project to generate solutions.
